@@ -12,8 +12,8 @@ O curso está dividido em três módulos principais. Este material cobre:
 
 ### 🌍 Regiões e Disponibilidade
 **Conceitos-chave:**
-- **Regiões**: Pontos geográficos onde os recursos são hospedados (representados por áreas azuis no mapa Azure)e
-- **Regiões anunciadas**: Áreas em preparação (ex: México Central)
+- **Regiões**: Pontos geográficos onde os recursos são hospedados
+- **Regiões anunciadas**: Áreas em preparação 
 - **Fatores de escolha**:
   - Proximidade dos usuários (redução de latência)
   - Conformidade com leis locais (ex: LGPD no Brasil)
@@ -83,4 +83,33 @@ O curso está dividido em três módulos principais. Este material cobre:
 
 ---
 
-**Nota**: Este material está em constante atualização. Contribuições são bem-vindas via pull requests!
+**Nota**: Este material está em constante atualização, segue link do complemento desse laborátório.
+- https://github.com/silvialibras/Lab-vm-config
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/193035748?v=4&size=64"
+    />
+    <p>&nbsp&nbsp&nbspSilvia Fagundes de Sousa<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/silvialibras">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/
+silvia-sousa-ba7a2531a/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/silviafagundess/">
+Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+
+
+
+
